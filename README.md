@@ -5,7 +5,7 @@
 
 Developed with precision by **VC** • Powered by **NAZERAN VC**
 
-[![Release](https://img.shields.io/badge/Release-v1.0-D4AF37?style=for-the-badge&logo=android&logoColor=black)](https://github.com/)
+[![Release](https://img.shields.io/badge/Release-v1.0-D4AF37?style=for-the-badge&logo=android&logoColor=black)](https://github.com/nazeranvc/vsg/releases/tag/VSG)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nazeranvc)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazeran.vc)
 
@@ -29,7 +29,7 @@ Developed with precision by **VC** • Powered by **NAZERAN VC**
 
 ### Getting Started
 
-1. **Download APK:** Grab the latest `VSG-Release.apk` from the [Releases](https://github.com/) tab.
+1. **Download APK:** Grab the latest `VSG-Release.apk` from the [Releases](https://github.com/nazeranvc/vsg/releases/tag/VSG) tab.
 2. **Create a Bot:** Use Telegram's `@BotFather` to create your private bot and copy your **Bot Token**.
 3. **Get Your Chat ID:** Retrieve your user or group chat ID using `@userinfobot`.
 4. **Launch & Authorize:**
