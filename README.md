@@ -1,0 +1,2 @@
+# vsg
+VC SMS GATEWAY
